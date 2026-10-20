@@ -16,5 +16,19 @@ namespace registo_yailson
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            iniciar_sessao iniciar = new iniciar_sessao();
+            iniciar.Show();
+            this.Hide();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            registar registar = new registar();
+            registar.Show();
+            this.Hide();
+        }
     }
 }
