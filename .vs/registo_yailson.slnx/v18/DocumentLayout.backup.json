@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\sj964\\source\\repos\\registo_yailson\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{985D38E8-B475-4C33-B0F2-6FE3E14A85A2}|registo_yailson\\registo_yailson.csproj|c:\\users\\sj964\\source\\repos\\registo_yailson\\registo_yailson\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{985D38E8-B475-4C33-B0F2-6FE3E14A85A2}|registo_yailson\\registo_yailson.csproj|solutionrelative:registo_yailson\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{985D38E8-B475-4C33-B0F2-6FE3E14A85A2}|registo_yailson\\registo_yailson.csproj|c:\\users\\sj964\\source\\repos\\registo_yailson\\registo_yailson\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{985D38E8-B475-4C33-B0F2-6FE3E14A85A2}|registo_yailson\\registo_yailson.csproj|solutionrelative:registo_yailson\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985D38E8-B475-4C33-B0F2-6FE3E14A85A2}|registo_yailson\\registo_yailson.csproj|c:\\users\\sj964\\source\\repos\\registo_yailson\\registo_yailson\\iniciar_sessao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{985D38E8-B475-4C33-B0F2-6FE3E14A85A2}|registo_yailson\\registo_yailson.csproj|solutionrelative:registo_yailson\\iniciar_sessao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985D38E8-B475-4C33-B0F2-6FE3E14A85A2}|registo_yailson\\registo_yailson.csproj|c:\\users\\sj964\\source\\repos\\registo_yailson\\registo_yailson\\iniciar_sessao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{985D38E8-B475-4C33-B0F2-6FE3E14A85A2}|registo_yailson\\registo_yailson.csproj|solutionrelative:registo_yailson\\iniciar_sessao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{985D38E8-B475-4C33-B0F2-6FE3E14A85A2}|registo_yailson\\registo_yailson.csproj|c:\\users\\sj964\\source\\repos\\registo_yailson\\registo_yailson\\registar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{985D38E8-B475-4C33-B0F2-6FE3E14A85A2}|registo_yailson\\registo_yailson.csproj|solutionrelative:registo_yailson\\registar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,15 +30,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\sj964\\source\\repos\\registo_yailson\\registo_yailson\\Form1.cs",
+              "RelativeDocumentMoniker": "registo_yailson\\Form1.cs",
+              "ToolTip": "C:\\Users\\sj964\\source\\repos\\registo_yailson\\registo_yailson\\Form1.cs",
+              "RelativeToolTip": "registo_yailson\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T17:10:29.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "iniciar_sessao.cs",
+              "DocumentMoniker": "C:\\Users\\sj964\\source\\repos\\registo_yailson\\registo_yailson\\iniciar_sessao.cs",
+              "RelativeDocumentMoniker": "registo_yailson\\iniciar_sessao.cs",
+              "ToolTip": "C:\\Users\\sj964\\source\\repos\\registo_yailson\\registo_yailson\\iniciar_sessao.cs",
+              "RelativeToolTip": "registo_yailson\\iniciar_sessao.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAArwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T16:53:18.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\sj964\\source\\repos\\registo_yailson\\registo_yailson\\Form1.cs",
               "RelativeDocumentMoniker": "registo_yailson\\Form1.cs",
@@ -30,6 +76,30 @@
               "RelativeToolTip": "registo_yailson\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-20T15:30:31.789Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "iniciar_sessao.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sj964\\source\\repos\\registo_yailson\\registo_yailson\\iniciar_sessao.cs",
+              "RelativeDocumentMoniker": "registo_yailson\\iniciar_sessao.cs",
+              "ToolTip": "C:\\Users\\sj964\\source\\repos\\registo_yailson\\registo_yailson\\iniciar_sessao.cs [Design]",
+              "RelativeToolTip": "registo_yailson\\iniciar_sessao.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T16:47:26.84Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "registar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sj964\\source\\repos\\registo_yailson\\registo_yailson\\registar.cs",
+              "RelativeDocumentMoniker": "registo_yailson\\registar.cs",
+              "ToolTip": "C:\\Users\\sj964\\source\\repos\\registo_yailson\\registo_yailson\\registar.cs [Design]",
+              "RelativeToolTip": "registo_yailson\\registar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T16:47:50.863Z",
               "EditorCaption": " [Design]"
             }
           ]

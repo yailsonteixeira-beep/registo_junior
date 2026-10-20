@@ -1,0 +1,11 @@
+C:\Users\sj964\source\repos\registo_yailson\registo_yailson\bin\Debug\registo_yailson.exe.config
+C:\Users\sj964\source\repos\registo_yailson\registo_yailson\bin\Debug\registo_yailson.exe
+C:\Users\sj964\source\repos\registo_yailson\registo_yailson\bin\Debug\registo_yailson.pdb
+C:\Users\sj964\source\repos\registo_yailson\registo_yailson\obj\Debug\registo_yailson.csproj.AssemblyReference.cache
+C:\Users\sj964\source\repos\registo_yailson\registo_yailson\obj\Debug\registo_yailson.Form1.resources
+C:\Users\sj964\source\repos\registo_yailson\registo_yailson\obj\Debug\registo_yailson.iniciar_sessao.resources
+C:\Users\sj964\source\repos\registo_yailson\registo_yailson\obj\Debug\registo_yailson.Properties.Resources.resources
+C:\Users\sj964\source\repos\registo_yailson\registo_yailson\obj\Debug\registo_yailson.csproj.GenerateResource.cache
+C:\Users\sj964\source\repos\registo_yailson\registo_yailson\obj\Debug\registo_yailson.csproj.CoreCompileInputs.cache
+C:\Users\sj964\source\repos\registo_yailson\registo_yailson\obj\Debug\registo_yailson.exe
+C:\Users\sj964\source\repos\registo_yailson\registo_yailson\obj\Debug\registo_yailson.pdb
